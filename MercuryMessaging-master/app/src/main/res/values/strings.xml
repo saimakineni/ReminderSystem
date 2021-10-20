@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">MercuryMessaging</string>
+    <string name="send_to_other_apps">Send to other apps</string>
+    <string name="Confirm_Button">Confirm</string>
+    <string name="Set_Reminder">Set Reminder</string>
+    <string name="Reminder_Prompt">Reminder Text</string>
+    <string name="App_Welcome">Welcome to Mercury Messaging</string>
+    <string name="Create_Reminder">Create New Reminder</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="save">Save</string>
+    <string name="schedule">Schedule</string>
+    <string name="cancel">Cancel</string>
+    <string name="sms">Add SMS Number</string>
+    <string name="discord">Add Discord Link</string>
+    <string name="simulatesend">SimulateSend</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="set_datetime">Set Date/Time</string>
+    <string name="reminder_message">Reminder Message</string>
+    <string name="reminder_date">Reminder Date</string>
+    <string name="reminder_time">Reminder Time</string>
+    <string name="reminder_services">Reminder Services</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="username">Username</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="continue_label">Continue</string>
+    <string name="upcoming_reminders">Upcoming Reminders</string>
+    <string name="send_reminder_now">Send Reminder Now</string>
+    <string name="log_out">Log Out</string>
+    <string name="phone_number">Phone number</string>
+    <string name="no_reminders_scheduled">No reminders scheduled.</string>
+    <string name="recipients">Recipients:</string>
+</resources>
