@@ -67,8 +67,8 @@ exports.scheduledFunction = functions.pubsub.schedule("every 1 minutes")
  */
 function sendSms(message, receipents) {
   console.log("In SMS function");
-  const accountSid = "AC4b899f847d2b53dfc679b522ed3f4281";
-  const authToken = "5506fbe931dfc4d9fd7896e6a783f271";
+  const accountSid = "";
+  const authToken = "";
   const client = require("twilio")(accountSid, authToken);
   for (let i=0; i<receipents.length; i++) {
     if (receipents[i].length== 10) {
